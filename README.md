@@ -4,6 +4,11 @@ Self-Driving RC project.
 # Current State:
 Purely an idea, I would like to build an RC from scratch, use some kind of radar for relative positioning, and a camera for image segmentation.
 
+# Shopping List:
+- Arduino Uno ($27)
+- Servos (4)
+- 
+
 # Goals:
 - build an RC
 - build traffic lights with LEDs
