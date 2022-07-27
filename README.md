@@ -11,6 +11,8 @@ Purely an idea, I would like to build an RC from scratch, use some kind of radar
   - https://www.amazon.com/gp/product/B07MLR1498/ref=ox_sc_act_title_1?smid=A2QTZX14X1D97I&th=1
 - Camera
   - https://www.amazon.com/gp/product/B00YDN9DIU/ref=ox_sc_act_title_1?smid=A1X8N7RHCK4F35&psc=1
+- USB Data Transfer Cable
+  - https://www.amazon.com/gp/product/B08RCJXY1Z/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
 # Goals:
 - build an RC
