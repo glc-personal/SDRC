@@ -5,6 +5,10 @@ Self-Driving RC project.
 Purely an idea, I would like to build an RC from scratch, use some kind of radar for relative positioning, and a camera for image segmentation.
 
 # Shopping List:
+- Power supply
+- Wires
+- Bread board
+**********
 - Arduino Uno ($27)
   - for controlling the RC car programmatically to then load a model on it for image segmentation to see pedestrians, traffic lights, stop signs, etc.
   - https://www.amazon.com/gp/product/B008GRTSV6/ref=ox_sc_act_image_4?smid=AA57DDZKZUZDL&psc=1
